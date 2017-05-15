@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CustomViewAPP</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="text_normal">This background is normal</string>
+    <string name="text_select_blue">This background is blue</string>
+    <string name="text_setlect_green">This background is green</string>
+</resources>
